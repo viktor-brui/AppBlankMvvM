@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppBlank</string>
+    <string name="input_error">Ошибка, внесите данные</string>
+</resources>
